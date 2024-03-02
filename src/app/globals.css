@@ -36,3 +36,7 @@ body {
 .btn-primary {
   @apply p-2 border border-gray-300 rounded-lg mb-4 focus:outline-none focus:border-gray-600
 }
+
+.btn-blue {
+  @apply py-2 px-4 border bg-blue-500 hover:bg-blue-700 rounded-lg mt-4 outline-none border-gray-600
+}
